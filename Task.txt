@@ -1,0 +1,13 @@
+Differences between Document and Window Objects
+
+Document Object
+
+    The Document Object is the HTML, php, and other Document that will be loaded into the browser. 
+    The Document Object gets loaded into inside the Window Object and has properties like title, URL, cookie, etc.
+    The document object is the root node of the HTML document.
+
+Window  Object
+
+    The Window is the first thing that gets loaded into the browser.
+    The window object has the majority of the properties like length, innerWidth, innerHeight, name, etc.
+    The document object is a property of the window object.
